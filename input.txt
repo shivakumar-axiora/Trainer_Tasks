@@ -1,0 +1,9 @@
+Name,Mobile Number,Address,Age,Gender
+Ravi Kumar,9876543210,Hyderabad,28,Male
+Sita Reddy,9123456780,Vijayawada,24,Female
+Arjun Rao,9988776655,Visakhapatnam,32,Male
+Lakshmi Devi,9012345678,Guntur,29,Female
+Kiran Kumar,9090909090,Tirupati,35,Male
+Anjali Sharma,9345678901,Nellore,27,Female
+Rahul Verma,9456123789,Kurnool,31,Male
+Pooja Singh,9567890123,Warangal,26,Female
